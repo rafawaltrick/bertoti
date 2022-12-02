@@ -1,2 +1,0 @@
-# bertoti
-Repositorio IHC
